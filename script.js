@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const API_KEY = "AIzaSyDmyvDNHS_7ICo1GHEzRPmdGMwuK_A8Uu8";
+    const API_KEY = "AIzaSyA1CBdWF0e55TBVBjBEHMMxokqYG8Xc-WQ";
 
     const button = document.getElementById("askGemini");
 
